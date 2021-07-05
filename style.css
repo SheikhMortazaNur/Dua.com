@@ -6,14 +6,49 @@ body{
     
 .first-salam{
     color: rgb(74, 129, 131);
-    font-size: 120%;
+    font-size: 150%;
+    text-decoration:none;
+    
+    
     
 }
-.Allah{
+#ALLAH-name-first {
     color: darkorange;
-    font-size: 115%;
+    font-size: 125%;
+    text-decoration: none;
 }
 .first-hadith{
     color: steelblue;
     font-size: 110%;
+    text-decoration: none;
+}
+.first-section{
+    display: flex;
+    width: 45;
+    background-image:url(image/sector\ 2.jpg);
+    padding: 20px 20px 20px 20px; 
+    border-radius: 10px;
+    box-shadow : 5px 10px 5px  slategray;
+    
+
+}
+#first-picture{
+    width: 160px;
+
+}
+#first-picture img{
+    width: 30%;
+}
+.PROPHET-NAME{ color: darksalmon;
+    font-size: 115%;
+    text-decoration: none;
+
+}
+.ALLAH-name-second {
+    color: slategrey;
+    font-size: 125%;
+    text-decoration: none;
+}
+#first-div{
+    color: snow;
 }
